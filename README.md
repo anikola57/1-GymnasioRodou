@@ -132,6 +132,8 @@ Arduino https://www.arduino.cc
 
 Tinkercad https://www.tinkercad.com/
 
+fritzing https://fritzing.org/
+
 Αστική κηπουρική https://www.ruaf.org/urban-agriculture-what-and-why
 
 1ο Γυμνάσιο Ρόδου http://1gym-rodou.dod.sch.gr/wp/
