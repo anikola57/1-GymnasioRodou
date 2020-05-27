@@ -28,7 +28,7 @@
 
 Δείτε το βίντεο με την περιγραφή της κατασκευής μας.
 
-[![Βίντεο](Images/VideoLink.png)](https://www.youtube.com/watch?v=l_-LzqQXOXw&fbclid=IwAR2Wd7mZu3ct4uEtH2pk-q381A_A0jF9rbbKeRAqwV1FKaR15sq77g4XatY)
+[![Βίντεο](Images/video_img.png)](https://www.youtube.com/watch?v=l_-LzqQXOXw&fbclid=IwAR2Wd7mZu3ct4uEtH2pk-q381A_A0jF9rbbKeRAqwV1FKaR15sq77g4XatY)
 
 
 >## Θεματική
